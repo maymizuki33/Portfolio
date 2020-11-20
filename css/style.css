@@ -15,9 +15,12 @@ body{
 	/*border: 1px solid blue;*/
 }
 
+.col-landing{
+	top: 50%;
+}
+
 .top-row{
-	padding-top: 20%;
-	padding-bottom: 30%;
+	height: 100vh;
 }
 
 .navbar{
