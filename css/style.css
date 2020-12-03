@@ -19,6 +19,10 @@ body{
 	padding-top: 15%;
 }
 
+.row{
+	/*background-color: pink;*/
+}
+
 .top-row{
 	height: 100vh;
 }
@@ -48,6 +52,10 @@ body{
 
 .padding-top-ten{
 	padding-top: 10%;
+}
+
+.align-right{
+	text-align: right;
 }
 
 
